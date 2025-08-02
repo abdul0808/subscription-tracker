@@ -43,15 +43,16 @@ subscription-tracker/
 - Upstash credentials (for scheduling)
 - Email service credentials (for reminders)
 
-### ⚙️ **Installation**
+### ⚙️ Installation
 
 ```bash
 git clone https://github.com/abdul0808/subscription-tracker.git
 cd subscription-tracker
 npm install
 
+```
 🛠️ Environment Setup
-Create a .env file in the root directory and add the following:
+Create a .env file in the root and add:
 PORT=5000
 MONGO_URI=your_mongodb_uri
 EMAIL_USER=your_email
