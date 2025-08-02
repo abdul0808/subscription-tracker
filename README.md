@@ -53,7 +53,8 @@ npm install
 ```
 🛠️ Environment Setup
 Create a .env file in the root and add:
-PORT=5000
+
+```PORT=5000
 MONGO_URI=your_mongodb_uri
 EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
