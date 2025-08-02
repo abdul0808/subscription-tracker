@@ -58,6 +58,8 @@ Create a .env file in the root and add:
 MONGO_URI=your_mongodb_uri
 EMAIL_USER=your_email
 EMAIL_PASS=your_email_password
+```
 
 ▶️ Run the Server
-npm run dev
+```npm run dev
+```
