@@ -50,8 +50,6 @@ git clone https://github.com/abdul0808/subscription-tracker.git
 cd subscription-tracker
 npm install
 
----
-
 🛠️ Environment Setup
 Create a .env file in the root directory and add the following:
 PORT=5000
